@@ -6,9 +6,7 @@
 
 **@blaco** :v:: How's life? Did you check out my code? :bowtie:
 
-
-https://user-images.githubusercontent.com/68590570/113903221-4e3ee280-9803-11eb-915e-bfe78000b897.mp4
-
+[![Haha](https://media.giphy.com/media/nWGRHBnAl5Kmc/source.gif)](https://media.giphy.com/media/nWGRHBnAl5Kmc/source.gif)
 
 <!---
 e-hong-w/e-hong-w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
