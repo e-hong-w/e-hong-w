@@ -11,8 +11,9 @@
 </p>
 
 - :teddy_bear: Leave me a message
-  - :beer: [E-mail](mailto:ehong.w@gmail.com?subject=[GitHub]%20Problem%20Description%)
-  - :snowman: [Whatsapp]()
+  - :beer: [E-mail](mailto:ehong.w@gmail.com?subject=[GitHub]%20Problem%20Description)
+  - :basket: [Linkedin](https://www.linkedin.com/in/ehong-w/)
+  - :snowman: [Whatsapp](wa.link/u5d17v)
 
 <!---
 [![Haha](https://media.giphy.com/media/nWGRHBnAl5Kmc/giphy.gif)](https://media.giphy.com/media/nWGRHBnAl5Kmc/giphy.gif)
