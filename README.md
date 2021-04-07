@@ -10,7 +10,9 @@
   <img width="512" src="https://user-images.githubusercontent.com/68590570/113908469-25b9e700-9809-11eb-8ed6-c7320ee2e9ff.png">
 </p>
 
-- :beer: [Leave me a message](ehong.w@gmail.com)
+- :teddy_bear: Leave me a message
+  - :beer: [E-mail](mailto:ehong.w@gmail.com?subject=[GitHub]%20Problem%20Description%)
+  - :snowman: [Whatsapp]()
 
 <!---
 [![Haha](https://media.giphy.com/media/nWGRHBnAl5Kmc/giphy.gif)](https://media.giphy.com/media/nWGRHBnAl5Kmc/giphy.gif)
