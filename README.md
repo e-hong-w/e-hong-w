@@ -9,8 +9,6 @@
 <table>
   <tr>
     <td><img width="256" src="![Buy E-Hong a coffee!](https://user-images.githubusercontent.com/68590570/113906717-1fc30680-9807-11eb-9250-20f586f2cb32.JPG)" /></td>
-    <td><img width="256" src="alipay.jpg" /></td>
-    <td><a href="https://www.paypal.me/xcatliu/"><img width="256" src="paypal.svg" /><p align="center">Sponsor me on PayPal</p></a></td>
   </tr>
 </table>
 
