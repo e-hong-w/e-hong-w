@@ -5,7 +5,10 @@
   - [ ] +601x-447 xxxx
 
 **@blaco** :v:: How's life? Did you check out my code? :bowtie:
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+
+
+https://user-images.githubusercontent.com/68590570/113903221-4e3ee280-9803-11eb-915e-bfe78000b897.mp4
+
 
 <!---
 e-hong-w/e-hong-w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
