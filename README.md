@@ -7,7 +7,7 @@
 **@blaco** :hugs:: How's life? Did you check out my code? :worried:
 
 <p>
-  <img width="512" src="https://user-images.githubusercontent.com/68590570/113908469-25b9e700-9809-11eb-8ed6-c7320ee2e9ff.png">
+  <img width="512" src="https://user-images.githubusercontent.com/68590570/113911631-c52ca900-980c-11eb-8946-19ce84f84c40.png">
 </p>
 
 - :teddy_bear: Leave me a message
