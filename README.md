@@ -7,10 +7,14 @@
 **@blaco** :hugs:: How's life? Did you check out my code? :worried:
 
 <p>
-  <img width="512" src="https://user-images.githubusercontent.com/68590570/113908469-25b9e700-9809-11eb-8ed6-c7320ee2e9ff.png" />
+  <img width="512" src="https://user-images.githubusercontent.com/68590570/113908469-25b9e700-9809-11eb-8ed6-c7320ee2e9ff.png">
 </p>
 
+- :beer: [Leave me a message](ehong.w@gmail.com)
+
+<!---
 [![Haha](https://media.giphy.com/media/nWGRHBnAl5Kmc/giphy.gif)](https://media.giphy.com/media/nWGRHBnAl5Kmc/giphy.gif)
+--->
 
 <!---
 e-hong-w/e-hong-w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
