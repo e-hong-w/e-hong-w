@@ -4,9 +4,9 @@
   - [x] https://www.linkedin.com/in/ehong-w/
   - [ ] +601x-447 xxxx
 
-**@blaco** :v:: How's life? Did you check out my code? :bowtie:
+**@blaco** :v:: How's life? Did you check out my code? :worried:
 
-[![Haha](https://media.giphy.com/media/nWGRHBnAl5Kmc/source.gif)](https://media.giphy.com/media/nWGRHBnAl5Kmc/source.gif)
+[![Haha](https://media.giphy.com/media/nWGRHBnAl5Kmc/giphy.gif)](https://media.giphy.com/media/nWGRHBnAl5Kmc/giphy.gif)
 
 <!---
 e-hong-w/e-hong-w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
