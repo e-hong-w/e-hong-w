@@ -13,7 +13,7 @@
 - :teddy_bear: Leave me a message
   - :beer: [E-mail](mailto:ehong.w@gmail.com?subject=[GitHub]%20Problem%20Description)
   - :basket: [Linkedin](https://www.linkedin.com/in/ehong-w/)
-  - :snowman: [Whatsapp](wa.link/u5d17v)
+  - :snowman: [Whatsapp](https://api.whatsapp.com/send?phone=60124472561&text=Hi%2C%20I%20found%20you%20from%20GitHub.%20%F0%9F%99%82)
 
 <!---
 [![Haha](https://media.giphy.com/media/nWGRHBnAl5Kmc/giphy.gif)](https://media.giphy.com/media/nWGRHBnAl5Kmc/giphy.gif)
