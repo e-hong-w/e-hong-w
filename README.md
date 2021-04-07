@@ -4,7 +4,7 @@
   - [x] https://www.linkedin.com/in/ehong-w/
   - [ ] +601x-447 xxxx
 
-**@blaco** :v:: How's life? Did you check out my code? :worried:
+**@blaco** :hugs:: How's life? Did you check out my code? :worried:
 
 [![Haha](https://media.giphy.com/media/nWGRHBnAl5Kmc/giphy.gif)](https://media.giphy.com/media/nWGRHBnAl5Kmc/giphy.gif)
 
