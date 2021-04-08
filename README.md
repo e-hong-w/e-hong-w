@@ -1,22 +1,46 @@
-- 👋 Hi, I’m E-Hong
+
+## **Halo halo!**
+- 👋🏼 Hi, I’m E-Hong
 - 📫 How to reach me:
   - [x] ehong.w@gmail.com
   - [x] https://www.linkedin.com/in/ehong-w/
   - [ ] +601x-447 xxxx
 
-**@blaco** :hugs:: How's life? Did you check out my code? :worried:
+**@blaco**🐏: How's life? Did you check out my code? 😟
 
+## **My skillset?**
+---
+### Languages ⌨️
+![](https://img.shields.io/badge/code-C%20Programming-brightgreen)
+![](https://img.shields.io/badge/code-Python-brightgreen)
+![](https://img.shields.io/badge/code-Assembly%20Language-brightgreen)
+
+![](https://img.shields.io/badge/code-Verilog-yellow)
+![](https://img.shields.io/badge/code-SystemVerilog-yellow)
+![](https://img.shields.io/badge/code-Perl%20Scripting-yellow)
+![](https://img.shields.io/badge/code-VHDL-orange)
+
+### OS 🐧
+![](https://img.shields.io/badge/os-Windows-blueviolet)
+![](https://img.shields.io/badge/os-Linux-blueviolet)
+
+### Tools 🪓
+![](https://img.shields.io/badge/hardware-Arduino-ff69b4)
+![](https://img.shields.io/badge/hardware-NodeMCU-ff69b4)
+![](https://img.shields.io/badge/hardware-ZED--F9P-ff69b4)
+![](https://img.shields.io/badge/hardware-Altera%20DE2-ff69b4)
+
+---
+
+## 🧸 **Leave me a message?**
+- 🍺 [E-mail](mailto:ehong.w@gmail.com?subject=[GitHub]%20Problem%20Description)
+- 🧺 [Linkedin](https://www.linkedin.com/in/ehong-w/)
+- ⛄ [Whatsapp]()
+
+<!---
 <p>
   <img width="512" src="https://user-images.githubusercontent.com/68590570/113911631-c52ca900-980c-11eb-8946-19ce84f84c40.png">
 </p>
-
-- :teddy_bear: Leave me a message
-  - :beer: [E-mail](mailto:ehong.w@gmail.com?subject=[GitHub]%20Problem%20Description)
-  - :basket: [Linkedin](https://www.linkedin.com/in/ehong-w/)
-  - :snowman: [Whatsapp]()
-
-<!---
-[![Haha](https://media.giphy.com/media/nWGRHBnAl5Kmc/giphy.gif)](https://media.giphy.com/media/nWGRHBnAl5Kmc/giphy.gif)
 --->
 
 <!---
