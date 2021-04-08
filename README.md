@@ -1,5 +1,5 @@
 
-## **Halo halo!** <img src="https://user-images.githubusercontent.com/68590570/114066409-4d26b780-98ce-11eb-8129-5585fb5edad8.gif" width="50" height="50"/>
+## **Halo halo!** <img src="https://user-images.githubusercontent.com/68590570/114067207-1f8e3e00-98cf-11eb-9e2e-75f0834dff0a.gif" width="50" height="50"/>
 
 - 👋🏼 Hi, I’m E-Hong
 - 📫 How to reach me:
