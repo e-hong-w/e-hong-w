@@ -1,6 +1,6 @@
 
-## **Halo halo!**
-![]()
+## **Halo halo!** <img src="https://user-images.githubusercontent.com/68590570/114066409-4d26b780-98ce-11eb-8129-5585fb5edad8.gif" width="50" height="50"/>
+
 - 👋🏼 Hi, I’m E-Hong
 - 📫 How to reach me:
   - [x] ehong.w@gmail.com
