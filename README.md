@@ -34,7 +34,7 @@
 ### Design & Editing 🪔
 ![](https://img.shields.io/badge/design-Adobe%20Illustrator-f79500)
 ![](https://img.shields.io/badge/design-Adobe%20Photoshop-003762)
-![](https://img.shields.io/badge/design-Adobe%20Premiere%20Pro-00005b)
+![](https://img.shields.io/badge/design-Adobe%20Premiere%20Pro-2a0034)
 
 ### Certifications 📜
 ![](https://img.shields.io/badge/huawei-HCIA--AI-FF0000)
