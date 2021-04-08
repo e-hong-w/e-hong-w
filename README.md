@@ -1,6 +1,6 @@
 
 ## **Halo halo!**
-![](https://media.giphy.com/media/z24q9PQNlw19u/giphy.gif)![](https://media.giphy.com/media/z24q9PQNlw19u/giphy.gif)
+![]()
 - 👋🏼 Hi, I’m E-Hong
 - 📫 How to reach me:
   - [x] ehong.w@gmail.com
