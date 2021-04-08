@@ -30,12 +30,18 @@
 ![](https://img.shields.io/badge/hardware-ZED--F9P-ff69b4)
 ![](https://img.shields.io/badge/hardware-Altera%20DE2-ff69b4)
 
+### Certifications 📜
+![](https://img.shields.io/badge/huawei-HCIA--AI-red)
+
 ---
 
 ## 🧸 **Leave me a message?**
 - 🍺 [E-mail](mailto:ehong.w@gmail.com?subject=[GitHub]%20Problem%20Description)
 - 🧺 [Linkedin](https://www.linkedin.com/in/ehong-w/)
 - ⛄ [Whatsapp]()
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ehong-w/ehong-w?style=for-the-badge)
+
 
 <!---
 <p>
