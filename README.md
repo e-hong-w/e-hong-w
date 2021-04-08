@@ -30,6 +30,11 @@
 ![](https://img.shields.io/badge/hardware-ZED--F9P-ff69b4)
 ![](https://img.shields.io/badge/hardware-Altera%20DE2-ff69b4)
 
+### Design & Editing 🪔
+![](https://img.shields.io/badge/design-Adobe%20Illustrator-ff69b4)
+![](https://img.shields.io/badge/design-Adobe%20Photoshop-ff69b4)
+![](https://img.shields.io/badge/design-Adobe%20Premiere%20Pro-ff69b4)
+
 ### Certifications 📜
 ![](https://img.shields.io/badge/huawei-HCIA--AI-red)
 
