@@ -41,6 +41,7 @@
 - ⛄ [Whatsapp]()
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ehong-w/ehong-w?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/ehong-w/ehong-w?style=for-the-badge)
 
 
 <!---
