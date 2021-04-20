@@ -25,6 +25,7 @@
 ![](https://img.shields.io/badge/os-Linux-blueviolet)
 
 ### Tools 🪓
+![](https://img.shields.io/badge/software-Git-0090F3)
 ![](https://img.shields.io/badge/hardware-Arduino-FF3FF0)
 ![](https://img.shields.io/badge/hardware-NodeMCU-FF3FF0)
 ![](https://img.shields.io/badge/hardware-ZED--F9P-FF3FF0)
