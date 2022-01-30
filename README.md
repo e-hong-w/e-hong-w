@@ -39,12 +39,15 @@
 ### Certifications 📜
 ![](https://img.shields.io/badge/huawei-HCIA--AI-FF0000)
 
+### Just For Fun 🧩
+<a href="https://stackoverflow.com/users/13228584/blaco"><img src="https://stackoverflow.com/users/flair/13228584.png?theme=dark" width="208" height="58" alt="Just For Fun"></a>
+
 ---
 
 ## 🧸 **Leave me a message?**
-- 🍺 [E-mail](mailto:ehong.w@gmail.com?subject=[GitHub]%20Problem%20Description)
-- 🧺 [Linkedin](https://www.linkedin.com/in/ehong-w/)
-- ⛄ [Whatsapp]()
+- 📧 [E-mail](mailto:ehong.w@gmail.com?subject=[GitHub]%20Problem%20Description)
+- 👔 [Linkedin](https://www.linkedin.com/in/ehong-w/)
+- 💬 [Whatsapp]()
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ehong-w/ehong-w?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ehong-w/ehong-w?style=for-the-badge)
